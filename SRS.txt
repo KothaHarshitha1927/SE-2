@@ -1,0 +1,32 @@
+Software Requirement Specification
+AIM:
+To develope SRS for passport automation system
+
+Functional requirements:
+Registration
+login
+passport application
+upload documents
+fees payment
+Document verification
+tracking
+
+Non-functional reruirements:
+Reliability
+speed
+compatability
+
+ Hardware Requirements:
+Processor:i3 or above
+Hard dick:20gb
+storage:5gb
+
+software req:
+HTML
+CSS
+JS
+MySQL
+chrome
+
+result:Hence,SRS is developed successfully.
+ 
